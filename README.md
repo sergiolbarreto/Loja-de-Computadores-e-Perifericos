@@ -1,7 +1,7 @@
 # Loja de Computadores e Perifericos
-Modelagem de banco de dados de uma loja de eletrônicos feita para um projeto da faculdade para a disciplina Gerenciamento de Dados e Informações. Abaixo segue o minimundo da aplicação e o esquemático. Os códigos incluem a criação das tabelas, povoamento e consulta de dados em SQL.
+Modelagem de banco de dados de uma loja de eletrônicos feita para um projeto da faculdade para a disciplina Gerenciamento de Dados e Informações. O projeto envolve uma equipe de seis pessoas que escolhem um tema, escolhemos o tema loja de computadores e periféricos, e a partir disso construir um minimundo, um esquemático, construção de tabelas, povoamento e consultas. Abaixo segue o minimundo da aplicação e o esquemático. Os códigos incluem a criação das tabelas, povoamento e consulta de dados em SQL.
 
-Esse projeto foi feito em grupo, os integrantes foram:
+Os integrantes da equipe são:
 - Brenda Guerra
 - Caio Possidio Vieira
 - Caio Roberto da Silva Verçosa
